@@ -128,7 +128,7 @@ Ein selbst gehosteter Discord-Bot, der stündlich einen oder zwei YouTube-Kanäl
 
 ## 🎨 Optional: Statusmeldung anpassen
 
-16. Öffne die Bot-Datei in einem Texteditor  
+16. Öffne die Bot-Datei ***(teufelchen_rose_bot.py)*** in einem Texteditor  
     - Finde den Abschnitt mit den Statusmeldungen  
     - Trage eigene ein, z. B.:
       ```python
