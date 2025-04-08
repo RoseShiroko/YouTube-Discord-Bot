@@ -75,17 +75,17 @@ Ein selbst gehosteter Discord-Bot, der stündlich einen oder zwei YouTube-Kanäl
    - Gehe zu **Servereinstellungen > Rollen**.
    - Rechtsklick auf die **Bot-Rolle** → **"ID kopieren"**.
    - Füge die ID in die `.env`-Datei ein:
-      ```env
-      ROLE_ID=123456789012345678
-   ---
-
+     ```env
+     Role_ID=ID_der_Discord_Rolle
+     ```
+  
 - ***Rollen-Name***
    - Gehe zu **Servereinstellungen > Rollen**.
    - Bearbeiten der Rolle: **Bot-Rolle** → **"Bearbeiten"**.
    - Füge den Namen in die `.env`-Datei ein:
-       ```env
-       ROLE_ID=123456789012345678
-   ---  
+     ```env
+     Bot_Role_Name=Name_der_Discord_Rolle
+     ```
 
 ## 🎥 YouTube-Kanal-ID finden
 
