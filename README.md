@@ -146,4 +146,4 @@ Ein selbst gehosteter Discord-Bot, der stündlich einen oder zwei YouTube-Kanäl
 
 ---
 
-**Viel Spaß mit Dem und Script Bot! 🎉 Bei Fragen oder Fehlern: Gerne Melden!**
+**Viel Spaß mit dem Bot und Script! 🎉 Bei Fragen oder Fehlern: Gerne Melden!**
