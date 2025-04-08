@@ -21,16 +21,19 @@ Ein selbst gehosteter Discord-Bot, der stündlich einen oder zwei YouTube-Kanäl
    - Vergib einen Namen
 
 4. **Navigiere zur Rubrik „Bot“**  
-   - Aktiviere den Bot  
-   - Setze den Token zurück  
-   - Kopiere den neuen Token und füge ihn in die `.env`-Datei ein:
+   - Aktiviere den Bot sofernes nicht Automatisch Passiert ist.  
+   - Setze den Token zurück sofern der Token nicht sichtbar ist.
+   - Kopiere den (neuen) Token und füge ihn in die `.env`-Datei ein:
      ```env
      DISCORD_TOKEN=DEIN_DISCORD_BOT_TOKEN
      ```
 
-5. **Navigiere zu „OAuth2 → URL Generator“**  
-   - Scopes: `bot`  
-   - Bot Permissions:
+5. **Navigiere zu „Insterllation" und zu „OAuth2 → URL Generator“**
+   - Navigiere zu ***„Insterllation"*** und wähle unter ***„Install Link"*** ***„Discord Provieded Link"*** aus und Kopiere den Link.
+   - Navigiere zu ***„OAuth2"*** und füge unter ***„Redirects"*** den gerde Kopierten Link ein.
+   - Jetzt wahle unter ***„OAuth2 URL Generator"*** folgendes aus
+   - **Scopes:** `bot`  
+   - **Bot Permissions:**
      - Manage Roles  
      - Send Messages  
      - Manage Messages  
@@ -42,12 +45,12 @@ Ein selbst gehosteter Discord-Bot, der stündlich einen oder zwei YouTube-Kanäl
      - Change Nickname  
      - View Channels
 
-6. **Installiere den Bot**  
+7. **Installiere den Bot**  
    - Kopiere den generierten Link  
    - Öffne ihn im Browser  
    - Füge den Bot deinem Server hinzu
 
-7. **Bot im gewünschten Kanal berechtigen**  
+8. **Bot im gewünschten Kanal berechtigen**  
    - Öffne die Kanaleinstellungen  
    - Unter **Berechtigungen → Rollen/Mitglieder** die Bot-Rolle hinzufügen  
    - Aktiviere:
@@ -61,7 +64,7 @@ Ein selbst gehosteter Discord-Bot, der stündlich einen oder zwei YouTube-Kanäl
      - Aktivitäten verwenden  
      - @erwähnen erlauben
 
-8. **🎭 Kanal-ID, Rollen-ID und Rollen Namen kopieren**
+9. **🎭 Kanal-ID, Rollen-ID und Rollen Namen kopieren**
    - Rechtsklick auf den Kanal → **ID kopieren**  
    - In `.env` eintragen:
      ```env
