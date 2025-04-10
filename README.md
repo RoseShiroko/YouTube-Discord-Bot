@@ -159,7 +159,7 @@ Ein selbst gehosteter Discord-Bot, der stündlich einen oder zwei YouTube-Kanäl
 
 ## ✅ Der Bot sollte nun:
 
-- Im Discord-Server sichtbar sein  
+- Im Discord-Server als Aktiv sichtbar sein  
 - Alle 60 Minuten auf neue YouTube-Videos prüfen  
 - Neue Uploads im definierten Kanal automatisch posten
 
