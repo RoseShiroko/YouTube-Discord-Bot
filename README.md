@@ -172,7 +172,7 @@ Ein selbst gehosteter Discord-Bot, der stündlich einen oder zwei YouTube-Kanäl
 ## ⚠ Planung für ein ein Zukünftiges Update 
 
 - Mehr Status Informationen einfügen mit Zeitsteuerung 
-- Unterstützung von mindestens 20 YouTube Kanaälen  
+- Unterstützung von mindestens 20 YouTube Kanälen  
 - Dynamisch aufgebaut
 - Verbesserte Protokolierung und Webhook Statusmeldungen
 - Die möglichkeit wenn der BOT startet bereits gesendete Videos nicht erneut zu senden.
